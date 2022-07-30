@@ -1,2 +1,2 @@
 this Project Made by ManiRamezanpour
-// link of this reposistory in github ``
+this project is fully responsive and copy the tapsi website template with HTML,CSS
